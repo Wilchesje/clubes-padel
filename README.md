@@ -37,7 +37,7 @@ Se identificaron 21 clubes **activos** en la ciudad.
 ### 1.2 Número de canchas por club
 *NOTE: Se utilizó SQL para la obtención de los datos, y R para su visualización*
 
-![Numero de canchas por club](IMG\canchas_por_club.png)
+![Numero de canchas por club](/IMG/canchas_por_club.png)
 
 La cantidad de canchas por club varía entre 1 y 8, siendo **LocosxPadel** el club con más canchas. El número de canchas por club que más se repite es **1**, habiendo **6 clubes** que sólo cuentan con una cancha de pádel.
 
