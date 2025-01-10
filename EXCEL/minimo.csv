@@ -1,0 +1,13 @@
+momento_dia;longitud_reserva;dias;precio_minimo;id_club;nombre;franja_horaria
+MANANA;HORA;L-V;30000;BOG13;Padel Fedecoltenis Forest Hills;09:00 - 10:00
+MANANA;HORA;S-F;32000;BOG01;Locos x Padel;04:00 - 05:00
+MANANA;HORA Y MEDIA;L-V;50000;BOG13;Padel Fedecoltenis Forest Hills;06:00 - 07:30
+MANANA;HORA Y MEDIA;S-F;60000;BOG13;Padel Fedecoltenis Forest Hills;10:30 - 12:00
+NOCHE;HORA;L-V;60000;BOG12;Top Padel Bogota;22:00 - 23:00
+NOCHE;HORA;S-F;48000;BOG01;Locos x Padel;22:00 - 23:00
+NOCHE;HORA Y MEDIA;L-V;99000;BOG08;Azotea Padel;22:30 - 00:00
+NOCHE;HORA Y MEDIA;S-F;80000;BOG02;Padel Point;22:00 - 23:30
+TARDE;HORA;L-V;30000;BOG13;Padel Fedecoltenis Forest Hills;13:00 - 14:00
+TARDE;HORA;S-F;30000;BOG13;Padel Fedecoltenis Forest Hills;15:00 - 16:00
+TARDE;HORA Y MEDIA;L-V;50000;BOG13;Padel Fedecoltenis Forest Hills;13:30 - 15:00
+TARDE;HORA Y MEDIA;S-F;60000;BOG13;Padel Fedecoltenis Forest Hills;12:00 - 13:30
